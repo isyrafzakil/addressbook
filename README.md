@@ -1,3 +1,8 @@
+# Angular 2 Address Book
+This is my first Angular 2 project. Without prior Angular 2 knowledge, I spent about 30 hours to finish it during my first week of internship at Datum ClearMind Sdn Bhd.
+
+This project was created based on the Angular 2 Hero Editor tutorial on angular.io
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
